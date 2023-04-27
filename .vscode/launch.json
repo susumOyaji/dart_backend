@@ -5,6 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Dart: Launch App",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin/dart_backend.dart",
+            "args": [],
+            "console": "terminal"
+        },
+        {
             "name": "dart_backend",
             "request": "launch",
             "type": "dart"
